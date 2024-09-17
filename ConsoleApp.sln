@@ -9,6 +9,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Linqu", "Linqu", "{00AA799E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linqu", "Linqu\Linqu.csproj", "{4B38A1FD-575B-4071-BFDD-5470402F835A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskFrist", "TaskFrist", "{3D47856B-237B-4D94-AA47-3AEB2CE014E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskFrist", "TaskFrist\TaskFrist.csproj", "{BB3F2C70-7802-42CB-B8A7-9DA9FD8D2336}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +27,17 @@ Global
 		{4B38A1FD-575B-4071-BFDD-5470402F835A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B38A1FD-575B-4071-BFDD-5470402F835A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B38A1FD-575B-4071-BFDD-5470402F835A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB3F2C70-7802-42CB-B8A7-9DA9FD8D2336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB3F2C70-7802-42CB-B8A7-9DA9FD8D2336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB3F2C70-7802-42CB-B8A7-9DA9FD8D2336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB3F2C70-7802-42CB-B8A7-9DA9FD8D2336}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4B38A1FD-575B-4071-BFDD-5470402F835A} = {00AA799E-A594-48F5-B5F9-C89D4D845CF4}
+		{BB3F2C70-7802-42CB-B8A7-9DA9FD8D2336} = {3D47856B-237B-4D94-AA47-3AEB2CE014E6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7355221C-EEF0-4ECE-B474-79E0685327C1}
