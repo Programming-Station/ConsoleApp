@@ -16,6 +16,8 @@ namespace Task_3
                 Console.WriteLine(i);
             }
             Console.ReadLine();
+
+
         }
     }
 }
